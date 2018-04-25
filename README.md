@@ -1,8 +1,6 @@
 ## Welcome to Micro Soft-Sucking Softworks Servers!
 
-Check out SPS [Community Discord!](https://discord.gg/A99XCSJ) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+hi
 
 ### Markdown
 
@@ -23,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+Check out SPS [Community Discord!](https://discord.gg/A99XCSJ) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
