@@ -1,7 +1,13 @@
-## Welcome to Micro Soft-Sucking Softworks Servers!
+## Welcome to Scorn Pole's Gaylo Page!
 
-brought to you by Scorn Pole Solutions
+hi
 
-### Info
+### Discord
+Check out SPS [Community Discord!](https://discord.gg/A99XCSJ)
 
-Check out SPS [Community Discord!](https://discord.gg/A99XCSJ) and ![Image](src)
+### Want to donate and help pay for server hosting?
+```
+https://streamlabs.com/scornpole
+https://patreon.com/scornpole
+
+```
