@@ -1,6 +1,6 @@
-## Welcome to Scorn Pole's Gaylo Page!
+## Welcome!
 
-This is the official Scorn Pole Solutions Gaylo: Offline community page.
+This is the official SPS Gaylo: Offline community page.
 
 ### Discord
 Check out SPS [Community Discord!](https://discord.gg/A99XCSJ)
