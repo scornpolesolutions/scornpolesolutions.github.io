@@ -3,7 +3,7 @@
 
 ### Want to donate to help pay for server hosting?
 
-https://streamlabs.com/scornpole for one time donations
+https://paypal.me/scornpole one time donations
 
 
 https://patreon.com/scornpole if you want to pledge monthly donations
