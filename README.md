@@ -8,3 +8,6 @@ Donate through [PayPal](https://paypal.me/scornpole) or [Patreon](https://patreo
 
 ### Discord
 Check out SPS [Community Discord!](https://discord.gg/A99XCSJ)
+
+### Twitch
+Check out my [channel!](https://twitch.tv/scornpole/)
