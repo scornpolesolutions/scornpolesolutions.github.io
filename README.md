@@ -3,16 +3,11 @@
 
 ### Want to donate to help pay for server hosting?
 
-for one time donations:
-```
-https://streamlabs.com/scornpole
+https://streamlabs.com/scornpole for one time donations
 
-```
-to pledge monthly donations:
-```
-https://patreon.com/scornpole
 
-```
+https://patreon.com/scornpole if you want to pledge monthly donations
+
 
 ### Discord
 Check out SPS [Community Discord!](https://discord.gg/A99XCSJ)
