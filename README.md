@@ -2,9 +2,15 @@
 
 
 ### Want to donate to help pay for server hosting?
+
+for one time donations:
 ```
-https://streamlabs.com/scornpole for one time donations
-https://patreon.com/scornpole if you want to pledge monthly donations
+https://streamlabs.com/scornpole
+
+```
+to pledge monthly donations:
+```
+https://patreon.com/scornpole
 
 ```
 
