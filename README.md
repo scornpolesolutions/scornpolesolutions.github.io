@@ -3,7 +3,7 @@
 
 ### Want to donate to help pay for server hosting?
 
-[One Time Donation](https://paypal.me/scornpole) or [Pledge Monthly Donations](https://patreon.com/scornpole)
+[Donate through PayPal](https://paypal.me/scornpole) or [Patreon](https://patreon.com/scornpole)
 
 
 ### Discord
