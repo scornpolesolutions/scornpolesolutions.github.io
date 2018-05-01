@@ -3,8 +3,6 @@
 
 ### Donate
 
-Pick one:
-
 [Streamlabs](https://streamlabs.com/scornpole)
 
 [Patreon](https://patreon.com/scornpole)
