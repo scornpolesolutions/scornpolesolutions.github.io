@@ -3,7 +3,7 @@
 
 ### Want to donate to help pay for server hosting?
 
-Pick one
+Pick one:
 
 [Streamlabs](https://streamlabs.com/scornpole)
 
