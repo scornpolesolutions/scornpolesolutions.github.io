@@ -3,7 +3,11 @@
 
 ### Want to donate to help pay for server hosting?
 
-Donate through [Streamlabs (third party payment processor for security reasons](https://streamlabs.com/scornpole) or [Patreon](https://patreon.com/scornpole) or various cryptocurrencies:
+Pick one
+[Streamlabs (third party payment processor for security reasons](https://streamlabs.com/scornpole)
+[Patreon](https://patreon.com/scornpole)
+
+Cryptocurrencies:
 ```
 Ether: 0x3efF9d46B1F671917236061ba93522bBA92f0771
 Bitcoin: 1JPd7LU2jA4fPYjVABePSw4z138Xh39bx7
