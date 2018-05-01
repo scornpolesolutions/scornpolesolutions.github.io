@@ -1,7 +1,7 @@
 ## Welcome!
 
 
-### Want to donate to help pay for server hosting?
+### Donate
 
 Pick one:
 
