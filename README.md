@@ -1,6 +1,6 @@
-## Welcome!
-
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/nxbV3RsyQwI/0.jpg)](http://www.youtube.com/watch?v=nxbV3RsyQwI "Video Title")
+
+## Welcome!
 
 ### Donate
 
