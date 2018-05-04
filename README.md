@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-### Want to help the server?
+### Want to donate?
 
 [Streamlabs](https://streamlabs.com/scornpole)
 
