@@ -1,6 +1,6 @@
 ## Welcome!
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=nxbV3RsyQwI" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/watch?v=nxbV3RsyQwI" frameborder="0" allowfullscreen></iframe>
 
 ### Donate
 
