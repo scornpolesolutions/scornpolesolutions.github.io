@@ -1,4 +1,3 @@
-<center>
 ## Welcome!
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/nxbV3RsyQwI/0.jpg)](http://www.youtube.com/watch?v=nxbV3RsyQwI "Video Title")
@@ -21,4 +20,3 @@ Bitcoin Cash: qzlvzm55nq4c03tcgxnjyu5k35920pxuds6a6snc29
 Check out SPS [Community Discord!](https://discord.gg/A99XCSJ)
 
 Check out my [Twitch channel!](https://twitch.tv/scornpole/)
-</center>
