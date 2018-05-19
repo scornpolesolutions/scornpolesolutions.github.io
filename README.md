@@ -1,6 +1,6 @@
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/nxbV3RsyQwI/0.jpg)](http://www.youtube.com/watch?v=nxbV3RsyQwI "Video Title")
 
-## Welcome to Soft Micropenis Sucking Softworks aka Scorn Pole Solutions
+## Welcome to Soft Micropenis Sucking Softworks (microsoftsucks) aka Scorn Pole Solutions
 
 ### Want to donate?
 
