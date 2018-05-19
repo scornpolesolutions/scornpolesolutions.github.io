@@ -2,6 +2,8 @@
 
 ## Welcome to Soft Micropenis Sucking Softworks aka Scorn Pole Solutions
 
+I do a large variety of things.
+
 ### Want to donate?
 
 [Streamlabs](https://streamlabs.com/scornpole)
