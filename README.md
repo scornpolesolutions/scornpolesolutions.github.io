@@ -19,6 +19,6 @@ Bitcoin Cash: qzlvzm55nq4c03tcgxnjyu5k35920pxuds6a6snc29
 
 
 ### Links
-Check out SPS [Community Discord](https://discord.gg/A99XCSJ)
+[Community Discord](https://discord.gg/A99XCSJ)
 
-Check out my [Twitch channel](https://twitch.tv/scornpole/)
+[Twitch channel](https://twitch.tv/scornpole/)
