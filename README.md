@@ -2,7 +2,7 @@
 
 ## Welcome
 
-I do a large variety of things.
+Riding the wings of death, manifest in many forms, I am. Greetings to they who wander Nod.
 
 ### Want to donate?
 
