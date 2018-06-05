@@ -2,7 +2,7 @@
 
 ## Welcome
 
-Riding the wings of death, manifest in many forms, I am. Greetings to they who wander Nod.
+Riding the wings of death, manifest in many forms, I am. Agathos Daimon.
 
 ### Want to donate?
 
