@@ -2,20 +2,13 @@
 
 ## Welcome
 
-Riding the wings of death, manifest in many forms, I am. Agathos Daimon.
+Soft Micropenis Sucking: the website
 
 ### Want to donate?
 
 [Streamlabs](https://streamlabs.com/scornpole)
 
 [Patreon](https://patreon.com/scornpole)
-
-Cryptocurrencies:
-```
-Ether: 0x3efF9d46B1F671917236061ba93522bBA92f0771
-Bitcoin: 1JPd7LU2jA4fPYjVABePSw4z138Xh39bx7
-Bitcoin Cash: qzlvzm55nq4c03tcgxnjyu5k35920pxuds6a6snc29
-```
 
 
 ### Links
