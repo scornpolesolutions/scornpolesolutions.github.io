@@ -6,7 +6,7 @@ Soft Micropenis Sucking: the website
 
 ### Want to donate?
 
-[Streamlabs](https://streamlabs.com/scornpole)
+[Streamlabs](https://streamlabs.com/opls)
 
 [Patreon](https://patreon.com/scornpole)
 
@@ -14,4 +14,4 @@ Soft Micropenis Sucking: the website
 ### Links
 [Community Discord](https://discord.gg/A99XCSJ)
 
-[Twitch channel](https://twitch.tv/scornpole/)
+[Twitch channel](https://twitch.tv/opls/)
