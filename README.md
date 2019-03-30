@@ -6,12 +6,7 @@ Soft Micropenis Sucking: the website
 
 ### Want to donate?
 
-[Streamlabs](https://streamlabs.com/scornpole69)
-
-[Patreon](https://patreon.com/scornpole)
-
-
-### Links
-[Community Discord](https://discord.gg/A99XCSJ)
-
-[Twitch channel](https://twitch.tv/scornpole69/)
+Bitcoin: 3E9YTiWTqzQiMkAKB2kDHxCr55bJW3bKPN
+Bitcoin Cash: qpakwy4lm3hzvh6uefnsnk0jff27nm69xsaaftphtn
+Ether: 0xAC34c40D887ca1ddc1A4d237fD9d702c47562921
+LTC: M7vBtnths4NywGsKre9PFaWeDBWcacJ35n
